@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm Laurent. You can find me on [Twitter](https://twitter.com/lobau) or learn more about me at [lobau.io](https://lobau.io/).
+I'm Laurent. You can find me on [Mastodon](https://noodle.social/web/@lobau), [Twitter](https://twitter.com/lobau) or learn more about me at [lobau.io](https://lobau.io/).
 
-I am currently the founder and CEO of [PopStage](https://popstage.com/), a service to design and host highly interactive workshops.
+I am currently the founder and CEO of [With Labs](https://with.so/), makers of [PopStage](https://popstage.com/), a service to design and host highly interactive workshops.
 
+Pronouns are he/him
 
 <!--
 **lobau/lobau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
