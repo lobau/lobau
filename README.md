@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Laurent. You can find me on [Mastodon](https://noodle.social/web/@lobau), [Twitter](https://twitter.com/lobau) or learn more about me at [lobau.io](https://lobau.io/).
+I'm Laurent. You can find me on [Mastodon](https://indieweb.social/@lobau) or learn more about me at [lobau.io](https://lobau.io/).
 
 I am currently the founder and CEO of [With Labs](https://with.so/), makers of [PopStage](https://popstage.com/), a service to design and host highly interactive workshops.
 
