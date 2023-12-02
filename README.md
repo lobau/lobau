@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Laurent. You can find me on [Mastodon](https://indieweb.social/@lobau) or learn more about me at [lobau.io](https://lobau.io/).
+I'm Laurent. You can find me on [Mastodon](https://noodle.social/@lobau) or learn more about me at [lobau.io](https://lobau.io/).
 
-I am currently the founder and CEO of [With Labs](https://with.so/), makers of [PopStage](https://popstage.com/), a service to design and host highly interactive workshops.
+I am cofounder and product guy at [Volumetrics](https://volumetrics.io/). We build [mr.js](https://github.com/Volumetrics-io/MR.js), an open-source library to build spatial interfaces for the web.
 
 Pronouns are he/him
 
